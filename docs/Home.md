@@ -2,4 +2,6 @@ New Wiki Home
 
 Just testing. Try now.
 
-Let's try going the other way. 
+Let's try going the other way.
+
+Will it work w/ the magic GitHub Token? 
