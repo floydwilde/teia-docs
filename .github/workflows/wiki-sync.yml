@@ -23,10 +23,11 @@ jobs:
           # Clone the wiki repository into the temporary directory
           git clone https://github.com/${{ github.repository }}.wiki.git .
           
-          # Compare and copy the differences between the temp directory and /wiki
-          rsync -av --delete --exclude=".git" ../wiki/ ./
+          # Copy the differences between the temp directory and /wiki
+          rsync -av --delete --exclude=".git" ./ ../wiki/
          
           # Commit and push the changes using the GITHUB_TOKEN
+          cd ../wiki
           git add .
           git commit -m "Sync wiki"
           git push origin HEAD:${{ github.ref }}
