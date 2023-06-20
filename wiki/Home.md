@@ -7,4 +7,4 @@ wiki repo.
 
 What happens when someone uses the GitHub UI to edit a document?
 
-This edit will probably overwrite the edit I made using the GitHub UI.
+Updating from the GitHub UI again.
