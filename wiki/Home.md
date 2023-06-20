@@ -1,7 +1,8 @@
-Just testing. Try now.
+# Welcome to the Teia Docs Wiki
 
-Let's try going the other way.
+This is a local edit made in a branch.
 
-Will it work w/ the magic GitHub Token? 
+With this action, files are updated in the main repo and then pushed to the
+wiki repo.
 
-Should be able to browse from sub-module.
+What happens when someone uses the GitHub UI to edit a document?
