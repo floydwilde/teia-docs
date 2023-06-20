@@ -2,9 +2,6 @@ name: Sync Wiki
 
 on:
   gollum:
-    types:
-      - created
-      - edited
 
 jobs:
   sync:
