@@ -69,7 +69,7 @@ zir0h-ledger (present) 4
 ### floydwilde
 <!-- multisig id: floydwilde -->
 
-[Floyd](https://mastodon.teia.art/@floydwilde) makes a daily collage from text and images he finds in his RSS reader. He came for the energy efficient Tezos blockchain and stayed because of the community which has built the Teia DAO.  Floyd maintains the [docs.teia.art](docs.teia.art) site and contributed the "Curation" tab in the profile which will show you a list of items you have collected from other artists and are now swapping.
+[Floyd](https://mastodon.teia.art/@floydwilde) makes a daily collage from text and images he finds in his RSS reader. He came for the energy efficient Tezos blockchain and stayed because of the community which has built the Teia DAO.  Floyd maintains the [docs.teia.art](https://docs.teia.art) site and contributed the "Curation" tab in the profile which will show you a list of items you have collected from other artists and are now swapping.
 
 ### Jagracar
 <!-- multisig id: jagracar -->
@@ -149,7 +149,7 @@ Experimental photographer from Aotearoa [stusontier](https://twitter.com/stusont
 UFFFD is a helpful glitch. He was a volunteer for hicetnunc’s community, UI and copymint moderation, and now supports Teia by running the blog, Discourse, and voting platform.
 ![Fvrv7jHaAAMj-I-](https://github.com/teia-community/teia-docs/assets/97635650/e9f117f9-3683-4f47-950f-04ce96e367c7)
 
-### Zir0h-ledger 4
+### Zir0h-ledger
 <!-- multisig id: zir0h-ledger -->
 
 Belgium based @Zir0h is a middleware administrator. He tumbled into Tezos via Mike Shinoda and his wombats.
